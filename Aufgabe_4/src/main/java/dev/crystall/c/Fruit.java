@@ -1,4 +1,4 @@
-package c;
+package dev.crystall.c;
 
 import java.util.Objects;
 
@@ -17,7 +17,7 @@ public class Fruit {
 
   @Override
   public String toString() {
-    return new StringBuilder("c.Fruit with color=").append(color).append(" and weight=").append(weight).toString();
+    return new StringBuilder("dev.crystall.c.Fruit with color=").append(color).append(" and weight=").append(weight).toString();
   }
 
   @Override

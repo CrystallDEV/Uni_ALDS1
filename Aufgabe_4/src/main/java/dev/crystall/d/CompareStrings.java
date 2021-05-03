@@ -1,4 +1,4 @@
-package d;
+package dev.crystall.d;
 
 import java.util.ArrayList;
 import java.util.List;

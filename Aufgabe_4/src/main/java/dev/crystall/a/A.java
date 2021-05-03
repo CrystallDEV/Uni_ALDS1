@@ -1,4 +1,4 @@
-package a;
+package dev.crystall.a;
 
 import java.util.Scanner;
 

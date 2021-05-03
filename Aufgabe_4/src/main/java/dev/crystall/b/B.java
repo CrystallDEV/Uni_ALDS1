@@ -1,4 +1,4 @@
-package b;
+package dev.crystall.b;
 
 /**
  * Created by CrystallDEV on 03/05/2021

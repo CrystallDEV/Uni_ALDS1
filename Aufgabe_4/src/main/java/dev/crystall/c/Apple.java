@@ -1,4 +1,4 @@
-package c;
+package dev.crystall.c;
 
 /**
  * Created by CrystallDEV on 03/05/2021
